@@ -73,3 +73,30 @@ h1 {
 .three-divs img {
   width: 25%;
 }
+
+/* input area */
+input,
+textarea {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+/* contac area */
+
+.contact-us {
+  margin: 10%;
+}
+
+/* footer area */
+.footer-area {
+  padding-left: 40%;
+  background-image: linear-gradient(orange, tomato);
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
